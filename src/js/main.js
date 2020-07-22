@@ -9,6 +9,11 @@ console.log("-------MAIN.JS--Punith-----------");
 
 function add(a, b, c) {
   console.log("let me test");
+  console.log("-------siju 9:22PM EST");
+<<<<<<< HEAD
+=======
+  console.log("-------siju 9:44PM EST");
+>>>>>>> 58769187c680a0554d96289bd86a7ee20508f894
   return Number(a) + Number(b) + Number(c);
 }
 
