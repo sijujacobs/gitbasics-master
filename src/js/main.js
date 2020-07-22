@@ -15,4 +15,11 @@ function add(a, b, c, d) {
   return Number(a) + Number(b) + Number(c) + Number(d);
 }
 
+function subtract(a, b, c) {
+  console.log("let me test");
+  console.log("-------siju 9:22PM EST");
+  console.log("-------siju 10:00PM EST");
+  return Number(a) + Number(b) + Number(c);
+}
+
 add(5, 4, 8, 7);
